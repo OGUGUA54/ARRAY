@@ -8,4 +8,4 @@ let cat = {
   cat.schoolName = 'FederalGovernmentCollegeEnugu'
   cat.age = 14
   console.log(cat)
-  
+   
