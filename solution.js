@@ -6,6 +6,6 @@ let cat = {
   console.log(cat)
   cat.job = 'Software development'
   cat.schoolName = 'FederalGovernmentCollegeEnugu'
-  cat.age = 13
-  console.log(cat) 
+  cat.age = 14
+  console.log(cat)
   
